@@ -1,0 +1,3 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Booking get request","Get booking by Id","SUCCESS","2022-01-11T23:41:46.920Z[Europe/London]","0.0","0.5"
+"Booking get request","Get All Ids","SUCCESS","2022-01-11T23:41:47.419Z[Europe/London]","0.0","0.5"
